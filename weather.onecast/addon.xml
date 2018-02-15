@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="weather.onecast" name="OneCast" version="0.1" provider-name="IQ">
+	<requires>
+		<import addon="xbmc.python" version=""/>
+	</requires>
+	<extension point="xbmc.python.weather" library=""/>
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en"></summary>
+		<description lang="en"></description>
+		<language>ru</language>
+		<platform></platform>
+		<license></license>
+		<forum></forum>
+		<website>https://github.com/PavelQuash/kodi-plugins/tree/master/weather.onecast</website>
+		<email></email>
+		<source>https://github.com/PavelQuash/kodi-plugins/tree/master/weather.onecast</source>
+	</extension>
+</addon>
